@@ -1,0 +1,206 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.backgrond{
+    background-image:url(images/drew-coffman-1872.jpg);
+     background-size:100% 100%  ;
+     background-position: cover;
+     height:100%;
+     width: 100%;
+     background-repeat: no-repeat;
+      margin-top: 0px;
+      display: inline-block;
+    }
+/* .homepage{
+ background-image:url(images/drew-coffman-1872.jpg);
+ background-size:100% 100%  ;
+ background-position: cover;
+ height:100%;
+ width: 100%;
+ background-repeat: no-repeat;
+  margin-top: 0px;
+  position: absolute;
+  display: inline-block;
+  
+} */
+/* .homepage img{
+    width: 40%;
+    float: left;
+       margin: 300px 50px;
+} */
+.navbar h6 {
+    font-size: 20px;
+    font-family:'Alegreya', serif;
+     color: rgb(241, 240, 240);
+     display: inline-block;
+     float: right;
+     padding:10px 10px 10px;
+     margin: 20px 10px 0px 10px;
+      font-weight: bold;
+      
+
+}
+.navbar img{
+    width:12%;
+    margin: 30px 30px;
+    padding: 0px 0px 0px ;
+     
+} 
+.landing{
+    text-align: center;
+    padding: 170px 0px 0px 0px;
+   color:  #ffffff;
+}
+.landing h3{
+    font-family: 'Alegreya', serif;
+    font-size: 22px;
+    font-weight: lighter;
+}
+.landing h1{
+    font-family: 'Alegreya', serif;
+    font-size: 76px;
+    font-weight: lighter;
+}
+.landing p{
+    font-family: 'Alegreya', serif;
+    font-size: 24px;
+    font-weight: lighter;
+    margin: 10px 0px 20px ;
+    
+}
+.landing button{
+    font-family: 'Alegreya', serif;
+    font-size: 16px;
+    font-weight: lighter;
+    background-color: #8E7754;
+    margin: 0px 0px 12px;
+    padding: 15px 28px;
+    color:  #ffffeb;
+    border: solid 5px #8E7754;
+}
+.cl{
+    clear: both;
+}
+.page2 img{
+    width: 40%;
+    margin: 100px 50px 20px;
+    float: left;
+} 
+.pag3 img{
+    width:40px;
+    float: left;
+     
+}
+.pag3 {
+ margin:60px 50px 50px;
+ float:  right;
+ font-family: 'Alegreya', serif;
+    font-size: 18px;
+    font-weight: lighter;
+    color: #303030;
+ 
+}
+.page4 img{
+    width: 40%;
+    padding: 0px 0px 0px;
+    margin: 0px 50px 0px ;
+    float:right;
+    clear: both;
+
+}
+.page5{
+    margin:100px 50px 50px;
+     float: left;
+ font-family: 'Alegreya', serif;
+    font-size: 17px;
+    font-weight: lighter;
+    color: #303030;
+    vertical-align:top;
+ 
+}
+/* .heding{
+    background-color: aqua;
+} */
+.heding h2{
+    color: #303030;
+    font-size: 30px;
+    font-family: 'Alegreya', serif;
+    font-weight: lighter;
+    text-align: center;
+    margin: 30px 0px 0px;
+    
+
+    
+}
+.heding p{
+    color: #303030;
+    font-size: 15px;
+    font-family: 'Alegreya', serif;
+    font-weight: lighter;
+    text-align:center;
+    /* margin: 30px 0px px; */
+    
+}
+/* .page6{
+    float: left;
+} */
+.sec1 img{
+    width: 100%;
+}
+ .sec1{
+     text-align: center;
+    width: 30%;
+    margin:0px 0px 0px 30px ;
+    float: left;
+ }
+  .sec1 p{
+    color: #303030;
+    font-size: 15px;
+    font-family: 'Alegreya', serif;
+    font-weight: lighter;
+    text-align:center;
+  }        
+    .sec1 h4{
+        color: #303030;
+    font-size: 17px;
+    font-family: 'Alegreya', serif;
+    font-weight: lighter;
+    text-align:center;
+    }
+ 
+.sec3{
+    color: #303030;
+    font-size: 17px;
+    font-family: 'Alegreya', serif;
+    font-weight: lighter;
+    /* text-align:center; */
+     margin: 10px 100px 10px 30px;
+    float: left;
+    
+     
+}
+.frame{
+    width:35%;
+    float:left;
+    background-color: aquamarine;
+    margin-bottom: 100px;
+}
+.lastsec{
+    background-color: #756666;
+    
+}
+.Lsec{
+    color: #e9e1e1;
+    font-size: 15px;
+    font-family: 'Alegreya', serif;
+    font-weight: lighter;
+    /* text-align:center; */
+     margin: 10px 20px 200px 10px;
+    width: 29%; 
+     display: inline-block;
+     padding: 0px 0px 0px 15px;
+     
+} 
